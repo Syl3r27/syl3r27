@@ -1,5 +1,5 @@
 <!-- 🔥 HEADER -->
-<h1 align="center">⚡ Syler — Full Stack Developer</h1>
+<h1 align="center">⚡ Om Prakash Pati Full Stack Developer</h1>
 <p align="center">Building real-time apps • Clean UI • Scalable systems</p>
 
 ---
@@ -7,7 +7,7 @@
 <!-- 👋 INTRO -->
 <p align="left">
   Hello World!! 👋 <br/>
-  I'm <b>Syler</b>, a full-stack developer focused on building real-time, production-ready applications.
+  I'm <b>Om Prakash Pati</b>, a full-stack developer focused on building real-time, production-ready applications.
 </p>
 
 ---
@@ -92,5 +92,5 @@
 ---
 
 <p align="center">
-  ⭐ From <a href="https://github.com/syl3r27">Syler</a>
+  ⭐ From <a href="https://github.com/syl3r27">Om Prakash Pati</a>
 </p>
