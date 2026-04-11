@@ -10,19 +10,22 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=syl3r27&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=syl3r27&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![]([https://github-profile-trophy.vercel.app/?username=syl3r27&theme=radical&no-frame=false&no-bg=true&margin-w=4](https://github-trophies.vercel.app/?username=syl3r27))
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🔝 Contributions
+<img src="https://gitlyy.vercel.app/api/contribution?username=syl3r27&hide_border=true"/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=syl3r27&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔝 Languages
+<img src="https://gitlyy.vercel.app/api/languages?username=syl3r27&layout=compact&hide_border=true"/>
+
+<img src="https://gitlyy.vercel.app/api/languages?username=syl3r27&layout=donut&hide_border=true"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=syl3r27&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Syl3r27&" alt="Syl3r27" /></p>
 
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/omprakashpati) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
