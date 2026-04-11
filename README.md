@@ -1,3 +1,24 @@
+# Hi 👋, I'm Om Prakash Pati
+
+### 🚀 Full-Stack JavaScript Developer | Building Real-Time & Scalable Web Apps
+
+* 🔭 Currently building **TypeCraft — a Multiplayer Real-Time Typing Platform**
+
+* 🌱 Deep diving into **Advanced TypeScript & System Design**
+
+* 👯 Open to collaborating on **impactful open-source & full-stack projects**
+
+* 🤝 Exploring and improving my skills in **scalable system architecture**
+
+* 💬 Ask me about **Node.js, React, Next.js, Express, APIs, Docker, SQL**
+
+* 📫 Reach me at **[omprakashpati909@gmail.com](mailto:omprakashpati909@gmail.com)**
+
+* ⚡ Fun fact: **I love building fast, interactive, and slightly crazy projects ⚡**
+
+* 👨‍💻 Portfolio: **https://omprakashpati.vercel.app/**
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omprakash-pati) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abeyy_op) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@abeyy_om) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omprakashpati909@gmail.com) 
