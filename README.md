@@ -10,7 +10,7 @@
 
 * 🤝 Exploring and improving my skills in **scalable system architecture**
 
-* 💬 Ask me about **Node.js, React, Next.js, Express, APIs, Docker, SQL**
+* 💬 Ask me about **Node.js, React, Next.js, Express, APIs, Docker, SQL, noSQL**
 
 * 📫 Reach me at **[omprakashpati909@gmail.com](mailto:omprakashpati909@gmail.com)**
 
