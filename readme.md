@@ -5,7 +5,6 @@
 <img src="./assets/banner.svg" alt="Om — Backend-Focused Full-Stack Developer" width="100%"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Syl3r27&color=00D9A3&style=flat-square&label=Profile+Views)
-[![LeetCode](https://img.shields.io/badge/LeetCode-350%2B%20Solved-00D9A3?style=flat-square&logo=leetcode&logoColor=white&labelColor=0A0E14)](https://leetcode.com/)
 [![GitHub followers](https://img.shields.io/github/followers/Syl3r27?style=flat-square&color=00D9A3&labelColor=0A0E14)](https://github.com/Syl3r27)
 
 </div>
@@ -14,10 +13,10 @@
 
 ### `> whoami`
 
-- 🎓 3rd-year B.E. Computer Science (AI/ML) @ Rungta College of Engineering and Technology, Bhilai
+- 🎓 Final-year B.E. Computer Science (AI/ML) student
 - 🛠️ Backend-focused full-stack developer — I care more about what happens when a request fails than when it succeeds
 - 🔍 Actively looking for **Software Engineering Internships**
-- 🧩 Competitive programmer — 350+ problems solved, contest rating ~1620
+- 🧩 Competitive programmer, always sharpening DSA fundamentals
 
 <br/>
 
@@ -77,12 +76,18 @@ Every balance is **derived**, not stored — so the ledger stays correct even wh
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0A0E14?style=for-the-badge&logo=typescript&logoColor=00D9A3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0A0E14?style=for-the-badge&logo=javascript&logoColor=00D9A3)
-![Node.js](https://img.shields.io/badge/-Node.js-0A0E14?style=for-the-badge&logo=node.js&logoColor=00D9A3)
+![Python](https://img.shields.io/badge/-Python-0A0E14?style=for-the-badge&logo=python&logoColor=00D9A3)
 ![C++](https://img.shields.io/badge/-C++-0A0E14?style=for-the-badge&logo=c%2B%2B&logoColor=00D9A3)
+![Node.js](https://img.shields.io/badge/-Node.js-0A0E14?style=for-the-badge&logo=node.js&logoColor=00D9A3)
+![Express](https://img.shields.io/badge/-Express-0A0E14?style=for-the-badge&logo=express&logoColor=00D9A3)
+![Socket.io](https://img.shields.io/badge/-Socket.io-0A0E14?style=for-the-badge&logo=socket.io&logoColor=00D9A3)
+![BullMQ](https://img.shields.io/badge/-BullMQ-0A0E14?style=for-the-badge&logo=redis&logoColor=00D9A3)
+![Kafka](https://img.shields.io/badge/-Kafka-0A0E14?style=for-the-badge&logo=apachekafka&logoColor=00D9A3)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0A0E14?style=for-the-badge&logo=postgresql&logoColor=00D9A3)
+![MongoDB](https://img.shields.io/badge/-MongoDB-0A0E14?style=for-the-badge&logo=mongodb&logoColor=00D9A3)
 ![Redis](https://img.shields.io/badge/-Redis-0A0E14?style=for-the-badge&logo=redis&logoColor=00D9A3)
 ![Docker](https://img.shields.io/badge/-Docker-0A0E14?style=for-the-badge&logo=docker&logoColor=00D9A3)
-![Socket.io](https://img.shields.io/badge/-Socket.io-0A0E14?style=for-the-badge&logo=socket.io&logoColor=00D9A3)
+![AWS](https://img.shields.io/badge/-AWS-0A0E14?style=for-the-badge&logo=amazonaws&logoColor=00D9A3)
 ![Git](https://img.shields.io/badge/-Git-0A0E14?style=for-the-badge&logo=git&logoColor=00D9A3)
 
 </div>
@@ -117,7 +122,7 @@ Every balance is **derived**, not stored — so the ledger stays correct even wh
 
 ```text
 🔭 Building:      Okane, Splitzy & TypeCraft — polishing for internship interviews
-🌱 Sharpening:    DSA/CP (350+ LeetCode, rating ~1620)
+🌱 Sharpening:    Data Structures & Algorithms, system design fundamentals
 🎯 Looking for:   Software Engineering Internships (Backend / Full-Stack)
 💬 Ask me about:  Payment idempotency, event-driven ledgers, real-time sync
 ```
@@ -128,10 +133,10 @@ Every balance is **derived**, not stored — so the ledger stays correct even wh
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A0E14?style=for-the-badge&logo=linkedin&logoColor=00D9A3)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A0E14?style=for-the-badge&logo=linkedin&logoColor=00D9A3)](https://linkedin.com/in/omprakash-pati/)
 [![GitHub](https://img.shields.io/badge/-GitHub-0A0E14?style=for-the-badge&logo=github&logoColor=00D9A3)](https://github.com/Syl3r27)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-0A0E14?style=for-the-badge&logo=leetcode&logoColor=00D9A3)](https://leetcode.com/YOUR-LEETCODE)
-[![Gmail](https://img.shields.io/badge/-Email-0A0E14?style=for-the-badge&logo=gmail&logoColor=00D9A3)](mailto:YOUR-EMAIL)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-0A0E14?style=for-the-badge&logo=leetcode&logoColor=00D9A3)](https://leetcode.com/u/syl3r/)
+[![Gmail](https://img.shields.io/badge/-Email-0A0E14?style=for-the-badge&logo=gmail&logoColor=00D9A3)](mailto:omprakashpati.work@gmail.com)
 
 </div>
 
