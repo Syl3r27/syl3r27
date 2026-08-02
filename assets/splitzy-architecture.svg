@@ -1,0 +1,57 @@
+<svg width="900" height="300" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, 'SF Mono', Monaco, 'Courier New', monospace">
+  <defs>
+    <pattern id="g2" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M26 0H0V26" fill="none" stroke="#1B2433" stroke-width="1"/>
+    </pattern>
+    <marker id="arrow2" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0L10 5L0 10z" fill="#00D9A3"/>
+    </marker>
+  </defs>
+
+  <rect width="900" height="300" fill="#0A0E14"/>
+  <rect width="900" height="300" fill="url(#g2)" opacity="0.5"/>
+  <text x="30" y="34" font-size="18" fill="#E6E6E6" font-weight="bold">Splitzy — Real-Time Expense Sharing</text>
+  <text x="30" y="54" font-size="12" fill="#6B7280">Event-Driven Pipeline · PostgreSQL · RBAC · Inngest</text>
+
+  <g font-size="13">
+    <rect x="20" y="110" width="150" height="55" rx="8" fill="#111827" stroke="#2D3748"/>
+    <text x="95" y="134" text-anchor="middle" fill="#E6E6E6">Expense Event</text>
+    <text x="95" y="150" text-anchor="middle" fill="#6B7280" font-size="10">add / edit / settle</text>
+
+    <rect x="230" y="110" width="170" height="55" rx="8" fill="#111827" stroke="#00D9A3"/>
+    <text x="315" y="134" text-anchor="middle" fill="#E6E6E6">Event Pipeline</text>
+    <text x="315" y="150" text-anchor="middle" fill="#6B7280" font-size="10">Inngest orchestration</text>
+
+    <rect x="460" y="110" width="170" height="55" rx="8" fill="#111827" stroke="#FFB86B"/>
+    <text x="545" y="134" text-anchor="middle" fill="#E6E6E6">Ledger</text>
+    <text x="545" y="150" text-anchor="middle" fill="#6B7280" font-size="10">PostgreSQL reconciliation</text>
+
+    <rect x="690" y="110" width="170" height="55" rx="8" fill="#111827" stroke="#2D3748"/>
+    <text x="775" y="134" text-anchor="middle" fill="#E6E6E6">RBAC Gate</text>
+    <text x="775" y="150" text-anchor="middle" fill="#6B7280" font-size="10">group / role scoped</text>
+
+    <rect x="690" y="210" width="170" height="55" rx="8" fill="#111827" stroke="#2D3748"/>
+    <text x="775" y="234" text-anchor="middle" fill="#E6E6E6">Client</text>
+    <text x="775" y="250" text-anchor="middle" fill="#6B7280" font-size="10">live balance view</text>
+  </g>
+
+  <path d="M170 137 H230" fill="none" stroke="#2D3748" stroke-width="2" marker-end="url(#arrow2)"/>
+  <path d="M400 137 H460" fill="none" stroke="#2D3748" stroke-width="2" marker-end="url(#arrow2)"/>
+  <path d="M630 137 H690" fill="none" stroke="#2D3748" stroke-width="2" marker-end="url(#arrow2)"/>
+  <path d="M775 165 V210" fill="none" stroke="#2D3748" stroke-width="2" marker-end="url(#arrow2)"/>
+
+  <circle r="4" fill="#00D9A3">
+    <animateMotion dur="2.5s" repeatCount="indefinite" path="M170 137 H230"/>
+  </circle>
+  <circle r="4" fill="#00D9A3">
+    <animateMotion dur="2.5s" begin="0.4s" repeatCount="indefinite" path="M400 137 H460"/>
+  </circle>
+  <circle r="4" fill="#FFB86B">
+    <animateMotion dur="2.5s" begin="0.8s" repeatCount="indefinite" path="M630 137 H690"/>
+  </circle>
+  <circle r="4" fill="#00D9A3">
+    <animateMotion dur="2.5s" begin="1.2s" repeatCount="indefinite" path="M775 165 V210"/>
+  </circle>
+
+  <text x="870" y="290" text-anchor="end" font-size="10" fill="#3A4557">every balance is derived, not stored</text>
+</svg>
