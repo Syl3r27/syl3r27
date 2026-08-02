@@ -133,10 +133,10 @@ Every balance is **derived**, not stored — so the ledger stays correct even wh
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A0E14?style=for-the-badge&logo=linkedin&logoColor=00D9A3)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A0E14?style=for-the-badge&logo=linkedin&logoColor=00D9A3)](https://linkedin.com/in/omprakash-pati/)
 [![GitHub](https://img.shields.io/badge/-GitHub-0A0E14?style=for-the-badge&logo=github&logoColor=00D9A3)](https://github.com/Syl3r27)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-0A0E14?style=for-the-badge&logo=leetcode&logoColor=00D9A3)](https://leetcode.com/YOUR-LEETCODE)
-[![Gmail](https://img.shields.io/badge/-Email-0A0E14?style=for-the-badge&logo=gmail&logoColor=00D9A3)](mailto:YOUR-EMAIL)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-0A0E14?style=for-the-badge&logo=leetcode&logoColor=00D9A3)](https://leetcode.com/u/syl3r/)
+[![Gmail](https://img.shields.io/badge/-Email-0A0E14?style=for-the-badge&logo=gmail&logoColor=00D9A3)](mailto:omprakashpati.work@gmail.com)
 
 </div>
 
