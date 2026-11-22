@@ -15,7 +15,7 @@
 
 - 🎓 Final-year B.E. Computer Science (AI/ML) student
 - 🛠️ Backend-focused full-stack developer — I care more about what happens when a request fails than when it succeeds
-- 🔍 Actively looking for **Software Engineering Internships**
+- 🏢 Working At *Nokia* as a Automation Intern
 - 🧩 Competitive programmer, always sharpening DSA fundamentals
 
 <br/>
